@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/capybara-chat-front/static/css/main.a6a2baa4.css",
+    "main.js": "/capybara-chat-front/static/js/main.2516ef86.js",
+    "static/js/9.53d09f9b.chunk.js": "/capybara-chat-front/static/js/9.53d09f9b.chunk.js",
+    "static/media/capybara-logo.jpg": "/capybara-chat-front/static/media/capybara-logo.6d45d6ed3e4c2ed5bf27.jpg",
+    "index.html": "/capybara-chat-front/index.html",
+    "main.a6a2baa4.css.map": "/capybara-chat-front/static/css/main.a6a2baa4.css.map",
+    "main.2516ef86.js.map": "/capybara-chat-front/static/js/main.2516ef86.js.map",
+    "9.53d09f9b.chunk.js.map": "/capybara-chat-front/static/js/9.53d09f9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a2baa4.css",
+    "static/js/main.2516ef86.js"
+  ]
+}

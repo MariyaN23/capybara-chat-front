@@ -92,14 +92,18 @@ export const Chat = () => {
             <div className={styles.messagesContainer}>
                 <div className={styles.messages}>
                     <div onScroll={setScrollHandler}>
-                        {allMessages.map((m: MessageType) => {
-                            return <div key={m.messageId}>
-                                <div className={styles.messageWrapper}>
-                                    <b>{m.user.name}</b>
-                                    <div className={styles.message}>{m.message}</div>
-                                </div>
+                        {allMessages.length === 0
+                            ? <div className={styles.noMessages}>
+                                To use the chat go to <a href={'https://capybara-chat.onrender.com/'} target={'_blank'} rel="noopener noreferrer">site</a>
                             </div>
-                        })}
+                            : allMessages.map((m: MessageType) => {
+                                return <div key={m.messageId}>
+                                    <div className={styles.messageWrapper}>
+                                        <b>{m.user.name}</b>
+                                        <div className={styles.message}>{m.message}</div>
+                                    </div>
+                                </div>
+                            })}
                         <div ref={messagesAnchorRef}></div>
                     </div>
                 </div>
