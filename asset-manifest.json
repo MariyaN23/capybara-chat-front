@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/capybara-chat-front/static/css/main.074d57c0.css",
-    "main.js": "/capybara-chat-front/static/js/main.1250d3c9.js",
+    "main.css": "/capybara-chat-front/static/css/main.0b819838.css",
+    "main.js": "/capybara-chat-front/static/js/main.258ab5c5.js",
     "static/js/9.53d09f9b.chunk.js": "/capybara-chat-front/static/js/9.53d09f9b.chunk.js",
     "static/media/capybara-logo.jpg": "/capybara-chat-front/static/media/capybara-logo.6d45d6ed3e4c2ed5bf27.jpg",
     "index.html": "/capybara-chat-front/index.html",
-    "main.074d57c0.css.map": "/capybara-chat-front/static/css/main.074d57c0.css.map",
-    "main.1250d3c9.js.map": "/capybara-chat-front/static/js/main.1250d3c9.js.map",
+    "main.0b819838.css.map": "/capybara-chat-front/static/css/main.0b819838.css.map",
+    "main.258ab5c5.js.map": "/capybara-chat-front/static/js/main.258ab5c5.js.map",
     "9.53d09f9b.chunk.js.map": "/capybara-chat-front/static/js/9.53d09f9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.074d57c0.css",
-    "static/js/main.1250d3c9.js"
+    "static/css/main.0b819838.css",
+    "static/js/main.258ab5c5.js"
   ]
 }
