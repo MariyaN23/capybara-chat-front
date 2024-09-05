@@ -8,7 +8,6 @@ import styles from '../chat/Chat.module.scss'
 import logo from '../assets/images/capybara-logo.jpg'
 
 export const Chat = () => {
-    console.log('render app')
     const allMessages = useSelector(selectMessages)
     const allTypingUsers = useSelector(selectTypingUsers)
     const {createConnection, destroyConnection, setClientName, setNewMessage, messageIsTyping} = useActions(chatActions)
