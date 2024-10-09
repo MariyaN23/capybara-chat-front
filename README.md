@@ -16,6 +16,7 @@ The app is styled with preprocessor SCSS
 
 ## Tools
 - TypeScript
+- React
 - Redux Toolkit
 - WebSocket library - Socket.io
 - Express
